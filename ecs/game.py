@@ -41,7 +41,7 @@ class Game():
 
     def step():
         '''
-        Function called every unit of time to genearte events,
+        Function called every unit of time to generate events,
         process changes in resource quantities, and simulate
         everything else that happens.
         '''
